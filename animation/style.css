@@ -1,0 +1,41 @@
+.slidein {
+    -webkit-animation-duration: 3s;
+    -webkit-animation-name: slidein;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-direction: alternate;
+
+    -moz-animation-duration: 3s;         
+    -moz-animation-name: slidein;        
+    -moz-animation-iteration-count: infinite;   
+    -moz-animation-direction: alternate; nimation-name: slidein;  
+
+    animation-duration: 3s;         
+    animation-name: slidein;         
+    animation-iteration-count: infinite; 
+    animation-direction: alternate;      
+}
+
+@-webkit-keyframes slidein {
+    from {
+        margin-left: 100%;
+        width: 300%
+    }
+    
+    to {
+        margin-left: 0%;
+        width: 100%;
+    }
+}
+
+@keyframes slidein {
+    from {
+        margin-left: 100%;
+        width: 300%
+    }
+
+    to {
+        margin-left: 0%;
+        width: 100%;
+    }
+}
+ 
