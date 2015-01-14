@@ -1,0 +1,22 @@
+div {
+    border: 2px solid blue; 
+    width: 300px; 
+    height: 600px;   
+}
+
+.t1 {
+    transform: rotate(90deg); 
+    transform-origin: bottom right;
+}
+
+.t2 {
+    transform: skewX(10deg) translateX(150px);
+    transform-origin: bottom left;
+
+    /*
+    perspective: 300px;
+    perspective-origin: 150px 150px;
+    */
+
+}
+
