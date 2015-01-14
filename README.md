@@ -24,3 +24,6 @@
 ## Tips
 
 - [Installation Brackets Extensions](docs/Brackets-Extensions.md)
+- Browser 에서 바로 코딩 해보기
+ - http://codepen.io/
+ - http://jsfiddle.net/
