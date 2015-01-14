@@ -15,7 +15,8 @@
 
 ### Week 3
 
-- [Animations](https://developer.mozilla.org/ko/docs/Web/CSS/Using_CSS_animations)
+- [Using CSS Animations](https://developer.mozilla.org/ko/docs/Web/CSS/Using_CSS_animations)
+ - [Example](https://github.com/daclouds/dxd/tree/master/animation) 
  
 ## Tips
 
