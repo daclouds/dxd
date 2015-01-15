@@ -1,7 +1,5 @@
 # dxd
 
-## CSS (Cascading Stylesheet)
-
 ### Week 2
 
 - [Layout 구성](http://franksop.bitbucket.org/html/lesson2.html)
@@ -20,9 +18,25 @@
     - [Chrome addEventListener animation events](http://stackoverflow.com/questions/17951783/chrome-addeventlistener-animation-events)
     - [[demo]](http://jfire.io/animations/) [[github]](https://github.com/jfirebaugh/animations)
 - [Using CSS Transforms](https://developer.mozilla.org/ko/docs/Web/CSS/Using_CSS_transforms)
-    - [Example](https://github.com/daclouds/dxd/tree/master/transform) 
+    - [Example](https://github.com/daclouds/dxd/tree/master/transform)
  
-## Tips
+## CSS Tips
+
+##### elements
+
+- [border-radius](https://developer.mozilla.org/ko/docs/Web/CSS/border-radius)
+- [box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
+- [justify-content](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content)
+
+##### font
+
+- [Google Fonts](https://developers.google.com/fonts/docs/getting_started)
+- [letter-spacing](https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing)
+- [word-spacing](https://developer.mozilla.org/en-US/docs/Web/CSS/word-spacing)
+- [line-height](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
+
+
+## 기타 참고할 만한 문서
 
 - [Installation Brackets Extensions](docs/Brackets-Extensions.md)
 - Browser 에서 바로 코딩 해보기
