@@ -1,6 +1,6 @@
 # dxd
 
-[코드로 디자인하기](http://spoqa.github.io/2015/01/16/design-with-code.html)
+[코드로 디자인하기 - Spoqa Blog](http://spoqa.github.io/2015/01/16/design-with-code.html)
 
 ### Week 2
 
