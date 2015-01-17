@@ -25,9 +25,16 @@
 - [Using CSS Transforms](https://developer.mozilla.org/ko/docs/Web/CSS/Using_CSS_transforms)
     - Examples [#1](http://jsfiddle.net/kdmr2zLo/), [#2](https://github.com/daclouds/dxd/tree/master/transform)
 
-- Examples
+- Assignment
     - http://barrelny.com/recap/2013/
     - http://nutsandwoods.de/
+
+- Tips
+    - [첫 keyframe 과 마지막 keyframe 부드럽게 연결
+      시키기](https://github.com/daclouds/dxd/blob/master/animations/background)
+      0% 와 100% 를 같은 이미지로 하면 되네요..
+    - [두번 째 숙제에 나온 hover 효과
+      따라하기](https://github.com/daclouds/dxd/blob/master/transforms/hover)
  
 ## CSS Tips
 

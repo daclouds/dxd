@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+}
+
+.images {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    -webkit-animation: 5s bg infinite;
+}
+
+@-webkit-keyframes bg {
+    0% {
+        background-image: url(https://c4.staticflickr.com/4/3880/14454993846_30761b7136.jpg); 
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    50% { 
+        background-image: url(https://c4.staticflickr.com/8/7160/6672148713_4e2ab31099.jpg); 
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    75% { 
+        background-image: url(https://c1.staticflickr.com/9/8087/8560297430_c6ed50f1e1_z.jpg); 
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    100% { 
+        background-image: url(https://c4.staticflickr.com/4/3880/14454993846_30761b7136.jpg); 
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+}

@@ -1,0 +1,84 @@
+body {
+    margin: 0px;
+/*
+    max-width: 400px;
+    min-width: 200px;
+*/
+/*    flex-wrap: wrap;*/
+}
+
+header {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    
+    padding: 120px;
+}
+
+.w300 {
+    font-weight: 100;
+}
+.w800 {
+    font-weight: 800;
+}
+
+/*
+div .float {
+    float: left;
+    width: 300px;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    background: red;
+    border: 1px solid lime;
+    border-width: 1px 0px 1px 1px;
+}
+*/
+
+.images {
+/*
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    flex: 2;
+*/
+    float: left;
+    width: 400px;
+}
+
+img {
+    width: 100%;
+}
+
+.wrapper {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+
+/*
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+*/
+}
+
+.wrapper > div {
+    flex: 1;
+}
+
+.wrapper > div:nth-child(2) {
+    flex: 6;
+}
+
+@media all and (min-width: 600px) {
+    .aisde { flex: 1 auto; }
+}
+
+@media all and (min-width: 800px) {
+    .main { flex: 3 0px }
+
+    .aside-1 { order: 1; }
+    .main    { order: 2; }
+    .aside-2 { order: 3; }
+    .footer  { order: 4; }
+}
