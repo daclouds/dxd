@@ -32,9 +32,11 @@
 - Tips
     - [첫 keyframe 과 마지막 keyframe 부드럽게 연결
       시키기](https://github.com/daclouds/dxd/blob/master/animations/background)
-      0% 와 100% 를 같은 이미지로 하면 되네요..
+        - 0% 와 100% 를 같은 이미지로 하면 되네요..
+        - [바로보기](http://jsfiddle.net/daclouds/unxadyv6/)
     - [두번 째 숙제에 나온 hover 효과
       따라하기](https://github.com/daclouds/dxd/blob/master/transforms/hover)
+        - [바로보기](http://jsfiddle.net/daclouds/41jaLgp5/)
  
 ## CSS Tips
 
