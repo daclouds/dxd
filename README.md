@@ -16,6 +16,7 @@
 ### Week 3
 
 - [Using CSS Transitions](https://developer.mozilla.org/ko/docs/Web/Guide/CSS/Using_CSS_transitions)
+    - [Example](http://jsfiddle.net/h9czba4s/)
 
 - [Using CSS Animations](https://developer.mozilla.org/ko/docs/Web/CSS/Using_CSS_animations)
     - [Example](https://github.com/daclouds/dxd/tree/master/animation) 
