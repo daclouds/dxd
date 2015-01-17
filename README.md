@@ -15,6 +15,8 @@
 
 ### Week 3
 
+- [Using CSS Transitions](https://developer.mozilla.org/ko/docs/Web/Guide/CSS/Using_CSS_transitions)
+
 - [Using CSS Animations](https://developer.mozilla.org/ko/docs/Web/CSS/Using_CSS_animations)
     - [Example](https://github.com/daclouds/dxd/tree/master/animation) 
     - [Chrome addEventListener animation events](http://stackoverflow.com/questions/17951783/chrome-addeventlistener-animation-events)
