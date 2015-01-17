@@ -1,18 +1,5 @@
 # dxd
 
-[코드로 디자인하기 - Spoqa Blog](http://spoqa.github.io/2015/01/16/design-with-code.html)
-
-### Week 2
-
-- [Layout 구성](http://franksop.bitbucket.org/html/lesson2.html)
-- [Text Overflow](docs/Text-Overflow.md)
-- [CSS 레이아웃을 배웁시다](http://ko.learnlayout.com/)
- 
-##### Assignment Examples
-
-- [#2](http://s.codepen.io/ChoEun/debug/EaZYrj)
-
-
 ### Week 3
 
 - [Using CSS Transitions](https://developer.mozilla.org/ko/docs/Web/Guide/CSS/Using_CSS_transitions)
@@ -37,8 +24,26 @@
     - [두번 째 숙제에 나온 hover 효과
       따라하기](https://github.com/daclouds/dxd/blob/master/transforms/hover)
         - [바로보기](http://jsfiddle.net/daclouds/41jaLgp5/)
+
+### Week 2
+
+- [Layout 구성](http://franksop.bitbucket.org/html/lesson2.html)
+- [Text Overflow](docs/Text-Overflow.md)
+- [CSS 레이아웃을 배웁시다](http://ko.learnlayout.com/)
  
-## CSS Tips
+##### Assignment Examples
+
+- [#2](http://s.codepen.io/ChoEun/debug/EaZYrj)
+
+## 참고
+
+##### README
+
+- [코드로 디자인하기 - Spoqa Blog](http://spoqa.github.io/2015/01/16/design-with-code.html)
+- [자동으로 들여쓰기 맞춰주는 Brackets Extensions 설치하기](docs/Brackets-Extensions.md)
+- Browser 에서 바로 코딩 해보기
+    - [http://codepen.io/](http://codepen.io/)
+    - [http://jsfiddle.net/](http://jsfiddle.net/)
 
 ##### elements
 
@@ -53,12 +58,7 @@
 - [word-spacing](https://developer.mozilla.org/en-US/docs/Web/CSS/word-spacing)
 - [line-height](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
 
+##### 기타
 
-## 기타 참고할 만한 문서
-
-- [Installation Brackets Extensions](docs/Brackets-Extensions.md)
-- Browser 에서 바로 코딩 해보기
-    - [http://codepen.io/](http://codepen.io/)
-    - [http://jsfiddle.net/](http://jsfiddle.net/)
 - 3D Animations
     - [three.js](http://threejs.org/)
