@@ -1,5 +1,7 @@
 # dxd
 
+[코드로 디자인하기](http://spoqa.github.io/2015/01/16/design-with-code.html)
+
 ### Week 2
 
 - [Layout 구성](http://franksop.bitbucket.org/html/lesson2.html)
@@ -19,6 +21,10 @@
     - [[demo]](http://jfire.io/animations/) [[github]](https://github.com/jfirebaugh/animations)
 - [Using CSS Transforms](https://developer.mozilla.org/ko/docs/Web/CSS/Using_CSS_transforms)
     - [Example](https://github.com/daclouds/dxd/tree/master/transform)
+
+- Examples
+    - http://barrelny.com/recap/2013/
+    - http://nutsandwoods.de/
  
 ## CSS Tips
 
