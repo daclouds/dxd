@@ -25,7 +25,7 @@
       시키기](https://github.com/daclouds/dxd/blob/master/animations/background) [[바로보기]](http://jsfiddle.net/unxadyv6/3/)
         - 0% 와 100% 를 같은 이미지로 하면 되네요..
         - 이미지로 화면을 가득 채우는건 감싸고 있는 요소(예제에선 .images)와 안에 요소(background-size)의 넓이와 높이를 모두 100% 로 하면 되네요..
-    - [마우스를 올려놓으면 바뀌는 메뉴](http://jsfiddle.net/daclouds/22kwdp0a/1/)
+    - [마우스를 올려놓으면 위로 올라가는 메뉴](http://jsfiddle.net/daclouds/22kwdp0a/1/)
     - [두번 째 숙제에 나온 hover 효과
       따라하기](https://github.com/daclouds/dxd/blob/master/transforms/hover) [[바로보기]](http://jsfiddle.net/41jaLgp5/3/)
 
