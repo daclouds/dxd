@@ -9,8 +9,12 @@
     - Examples [#1](https://github.com/daclouds/dxd/tree/master/animation), [#2](http://jsfiddle.net/kuwsjbf9/)
     - [Chrome addEventListener animation events](http://stackoverflow.com/questions/17951783/chrome-addeventlistener-animation-events)
     - [[demo]](http://jfire.io/animations/) [[github]](https://github.com/jfirebaugh/animations)
+    - [An Introduction To CSS3 Keyframe Animations](http://www.smashingmagazine.com/2011/05/17/an-introduction-to-css3-keyframe-animations/) May 17, 2011
+    - [Keyframe Animation Syntax](http://css-tricks.com/snippets/css/keyframe-animation-syntax/) July 18, 2014
 - [Using CSS Transforms](https://developer.mozilla.org/ko/docs/Web/CSS/Using_CSS_transforms)
     - Examples [#1](http://jsfiddle.net/kdmr2zLo/), [#2](https://github.com/daclouds/dxd/tree/master/transform)
+    - [CSS Masking](http://www.html5rocks.com/en/tutorials/masking/adobe/)
+    - [Clipping and Masking in CSS](http://css-tricks.com/clipping-masking-css/) December 2, 2014
 
 - Assignment
     - http://barrelny.com/recap/2013/
@@ -28,8 +32,15 @@
 ### Week 2
 
 - [Layout 구성](http://franksop.bitbucket.org/html/lesson2.html)
-- [Text Overflow](docs/Text-Overflow.md)
 - [CSS 레이아웃을 배웁시다](http://ko.learnlayout.com/)
+- [CSS Transparency Settings for All Browsers](http://css-tricks.com/css-transparency-settings-for-all-broswers/) November 4, 2007
+
+##### CSS Properties
+- [Text Overflow](docs/Text-Overflow.md)
+- [display](http://www.w3schools.com/cssref/pr_class_display.asp)
+- [background-image](http://www.w3schools.com/cssref/pr_background-image.asp)
+- [background-size](http://www.w3schools.com/cssref/css3_pr_background-size.asp)
+- [background-repeat](http://www.w3schools.com/cssref/pr_background-repeat.asp)
  
 ##### Assignment Examples
 
@@ -62,3 +73,6 @@
 
 - 3D Animations
     - [three.js](http://threejs.org/)
+- [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/performance-organization/)
+- [Hover.css](https://github.com/IanLunn/Hover)
+- [HTML Color Picker](http://www.w3schools.com/tags/ref_colorpicker.asp)
