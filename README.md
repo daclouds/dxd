@@ -29,6 +29,7 @@
     - [두번 째 숙제에 나온 hover 효과
       따라하기](https://github.com/daclouds/dxd/blob/master/transforms/hover) [[Live Demo]](http://jsfiddle.net/41jaLgp5/3/)
     - [The Semantic, Responsive Navicon](http://www.smashingmagazine.com/2012/10/08/the-semantic-responsive-design-navicon/) October 8, 2012 [Live demo, CSS](http://codepen.io/jordanmoore/full/BIzCe)
+    - [강의 내용 정리](http://codepen.io/ChoEun/pen/emWmwG)
 
 ### Week 2
 
