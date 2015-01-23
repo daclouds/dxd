@@ -20,6 +20,9 @@
     - http://barrelny.com/recap/2013/
     - http://nutsandwoods.de/
 
+- Solution
+    - [#1](https://gist.github.com/dxdseminar/c26ff29483ed493de7c3)
+
 - Tips
     - [첫 keyframe 과 마지막 keyframe 부드럽게 연결
       시키기](https://github.com/daclouds/dxd/blob/master/animations/background) [[바로보기]](http://jsfiddle.net/unxadyv6/3/)
@@ -78,3 +81,4 @@
 - [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/performance-organization/)
 - [Hover.css](https://github.com/IanLunn/Hover)
 - [HTML Color Picker](http://www.w3schools.com/tags/ref_colorpicker.asp)
+- [Animate.css](http://daneden.github.io/animate.css/)
