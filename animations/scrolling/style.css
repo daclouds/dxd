@@ -1,0 +1,146 @@
+ html,
+ body,
+ .main,
+ .main .container {
+     margin: 0;
+     
+     /* 문서 높이를 브라우저의 높이와 같게 만듭니다. 원래는 0px에서 시작합니다. */
+     height: 100%;
+     
+     /* 스크롤바를 없애줍니다. */
+     overflow: hidden;
+
+ }
+
+ body {
+     /* 애니메이션이 끝나고 마지막에 나타나는 배경색입니다. CSS 속성은 애니메이션이 종료된 다음에 표현됩니다. */
+     background-color: #97C88C;
+     -webkit-animation: 8s changeBackgroundColor;
+ }
+
+ .main {
+     /* 브라우저 크기의 2배만큼 레이아웃 박스를 만듭니다. 왜 그런지는 아시겠죠? */
+     width: 200%;
+     display: flex;
+     
+     /* 포지션을 relative로 해야지만 left 속성으로 애니메이션을 할 수가 있어요. */
+     position: relative;
+     -webkit-animation: 2s moveToLeft;
+     
+     /* 첫번째 페이지에서 동작하는 모든 애니메이션이 종료될 때까지 대기합니다. */
+     -webkit-animation-delay: 6s;
+     
+     /* 애니메이션 시작 전까지는 원래 위치에서 대기하다가 애니메이션 끝나는 위치에서 멈추게 해줍니다. */
+     -webkit-animation-fill-mode: forwards;
+ }
+
+ .main .container {
+     width: 50%;
+     padding: 100px;
+     box-sizing: border-box;
+ }
+
+ .main .carousel,
+ .main .year  {
+     float: left;
+     font-family: 'Open Sans', sans-serif;
+     font-weight: 700;
+     font-size: 90px;
+     color: white;
+ }
+
+ .main .intro {
+     display: flex;
+     /* 플렉스 아이템들을 수직, 수평에서 중앙으로 정렬해줍니다. */
+     align-items: center;
+     justify-content: center;
+ }
+
+ .main .intro .title {
+     max-width: 700px;
+     margin-right: 100px;
+     font-family: 'Open Sans', sans-serif;
+     font-weight: 700;
+     font-size: 90px;
+     color: white;
+ }
+
+ .main .intro .description {
+     color: white;
+     max-width: 600px;
+     font-family: 'Open Sans', sans-serif;
+     font-weight: 400;
+     font-size: 24px;
+ }
+
+ .main .carousel {
+     top: 0;
+     position: relative;
+     -webkit-animation: 4s moveToVertical;
+ }
+
+ .main .year {
+     margin-left: 40px;
+ }
+
+ .main .carousel .title {
+     color: black;
+ }
+
+ .main .carousel .months {
+     -webkit-animation: 2s dropMonths;
+     -webkit-animation-delay: 4s;
+     -webkit-animation-fill-mode: forwards;
+     text-transform: capitalize;
+ }
+
+ /* 배경화면 색을 변경하는 애니메이션을 정의합니다 */
+ @-webkit-keyframes changeBackgroundColor {
+     0% {
+         background-color: #3C3C43;
+     }
+
+     20% {
+         background-color: #EF5858;
+     }
+
+     40% {
+         background-color: #D2D2D3;
+     }
+
+     60% {
+         background-color: #736985;
+     }
+
+     80% {
+         background-color: #3A9EE8;
+     }
+ }
+
+ @-webkit-keyframes moveToVertical {
+     from {
+         top: -150%;
+     }
+ }
+
+ @-webkit-keyframes dropMonths {
+     from {
+         margin-top: 0;
+         opacity: 1;
+     }
+
+     to {
+         margin-top: 100px;
+         opacity: 0;
+     }
+ }
+
+ @-webkit-keyframes moveToLeft {
+     from {
+         left: 0;
+     }
+
+     to {
+         left: -100%;
+     }
+ } 

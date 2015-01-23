@@ -21,7 +21,7 @@
     - http://nutsandwoods.de/
 
 - Solution
-    - [#1](https://gist.github.com/dxdseminar/c26ff29483ed493de7c3)
+    - [#1](https://github.com/daclouds/dxd/blob/master/animations/scrolling/)
 
 - Tips
     - [첫 keyframe 과 마지막 keyframe 부드럽게 연결
