@@ -1,5 +1,16 @@
 # dxd
 
+### Week 4
+
+- [CSS media queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries)
+- http://codepen.io/ChoEun/pen/xbrrjx
+
+Examples
+
+ - https://atmospherejs.com/
+ - http://foodsense.is/
+ - http://www.wolffolins.com/
+
 ### Week 3
 
 - [Using CSS Transitions](https://developer.mozilla.org/ko/docs/Web/Guide/CSS/Using_CSS_transitions)
