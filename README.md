@@ -3,6 +3,7 @@
 ### Week 4
 
 - [CSS media queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries)
+- [반응형 웹 기술 이해](http://readme.skplanet.com/?p=9739)
 - http://codepen.io/ChoEun/pen/xbrrjx
 
 Examples
