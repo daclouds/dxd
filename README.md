@@ -94,3 +94,4 @@ Examples
 - [Hover.css](https://github.com/IanLunn/Hover)
 - [HTML Color Picker](http://www.w3schools.com/tags/ref_colorpicker.asp)
 - [Animate.css](http://daneden.github.io/animate.css/)
+- [Publishing to Azure Websites with Git](http://azure.microsoft.com/en-us/documentation/articles/web-sites-publish-source-control/)
