@@ -95,3 +95,5 @@ Examples
 - [HTML Color Picker](http://www.w3schools.com/tags/ref_colorpicker.asp)
 - [Animate.css](http://daneden.github.io/animate.css/)
 - [Publishing to Azure Websites with Git](http://azure.microsoft.com/en-us/documentation/articles/web-sites-publish-source-control/)
+- [User interface의 애니메이션 & 트랜지션](http://story.pxd.co.kr/865)
+- [The Gooey Effect](http://css-tricks.com/gooey-effect/)
