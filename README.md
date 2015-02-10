@@ -4,6 +4,7 @@
 
 - [switch images](http://codepen.io/ChoEun/pen/emeeBR)
 - [go to anchor](http://codepen.io/ChoEun/pen/vEWWXb)
+- [Pure CSS Parallax Websites](http://keithclark.co.uk/articles/pure-css-parallax-websites/)
 
 ### Week 4
 
