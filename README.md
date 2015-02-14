@@ -3,11 +3,13 @@
 ### Feb. 14
 
 - [Single Page Site with Smooth Scrolling, Highlighted Link, and Fixed Navigation](http://callmenick.com/2013/04/22/single-page-site-with-smooth-scrolling-highlighted-link-and-fixed-navigation/)
-- [demo](http://callmenick.com/lab-demos/7-single-page-smooth-scroll/)
+- [[demo]](http://callmenick.com/lab-demos/7-single-page-smooth-scroll/)
 - [jQuery: Event, when User stops scrolling](http://stackoverflow.com/questions/3701311/jquery-event-when-user-stops-scrolling)
 - [jQuery scroll() detect when user stops scrolling](http://stackoverflow.com/questions/9144560/jquery-scroll-detect-when-user-stops-scrolling)
 - [jQuery 1.9.1 $.event.handle.apply alternative](http://stackoverflow.com/questions/15653917/jquery-1-9-1-event-handle-apply-alternative)
 - [Media Queries: How to target desktop, tablet and mobile?](http://stackoverflow.com/questions/6370690/media-queries-how-to-target-desktop-tablet-and-mobile)
+- [Detect IF hovering over element with jQuery](http://stackoverflow.com/questions/8981463/detect-if-hovering-over-element-with-jquery)
+- [How to Create a Block Hover Effect for a List of Links](http://www.smileycat.com/miaow/archives/000230.php)
 
 ##### Chrome Tips
 
