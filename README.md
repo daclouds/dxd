@@ -1,5 +1,23 @@
 # dxd
 
+### Feb. 14
+
+- [Single Page Site with Smooth Scrolling, Highlighted Link, and Fixed Navigation](http://callmenick.com/2013/04/22/single-page-site-with-smooth-scrolling-highlighted-link-and-fixed-navigation/)
+- [demo](http://callmenick.com/lab-demos/7-single-page-smooth-scroll/)
+- [jQuery: Event, when User stops scrolling](http://stackoverflow.com/questions/3701311/jquery-event-when-user-stops-scrolling)
+- [jQuery scroll() detect when user stops scrolling](http://stackoverflow.com/questions/9144560/jquery-scroll-detect-when-user-stops-scrolling)
+- [jQuery 1.9.1 $.event.handle.apply alternative](http://stackoverflow.com/questions/15653917/jquery-1-9-1-event-handle-apply-alternative)
+- [Media Queries: How to target desktop, tablet and mobile?](http://stackoverflow.com/questions/6370690/media-queries-how-to-target-desktop-tablet-and-mobile)
+
+##### Chrome Tips
+
+- [How do I view events fired on an element in Chrome Web Developer?](http://stackoverflow.com/questions/10213703/how-do-i-view-events-fired-on-an-element-in-chrome-web-developer)
+- [Chrome Developer Tools – monitorEvents](http://www.briangrinstead.com/blog/chrome-developer-tools-monitorevents)
+
+##### Git Tips
+
+- [Pull new updates from original Github repository into forked Github repository](http://stackoverflow.com/questions/3903817/pull-new-updates-from-original-github-repository-into-forked-github-repository)
+
 ### Week 5
 
 - [switch images](http://codepen.io/ChoEun/pen/emeeBR)
