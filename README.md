@@ -10,6 +10,13 @@
 - [Detect IF hovering over element with jQuery](http://stackoverflow.com/questions/8981463/detect-if-hovering-over-element-with-jquery)
 - [How to Create a Block Hover Effect for a List of Links](http://www.smileycat.com/miaow/archives/000230.php)
 
+### Feb. 7
+- [Cascading Style Sheets home page](http://www.w3.org/Style/CSS/)
+ - [CENTERING THINGS](http://www.w3.org/Style/Examples/007/center)
+- [CSS-TRICKS](http://css-tricks.com/)
+ - [Quick CSS Trick: How To Center an Object Exactly In The Center](http://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/)
+- [CSS3 Animation Cheat Sheet](http://www.justinaguilar.com/animations/index.html)
+
 ##### Chrome Tips
 
 - [How do I view events fired on an element in Chrome Web Developer?](http://stackoverflow.com/questions/10213703/how-do-i-view-events-fired-on-an-element-in-chrome-web-developer)
