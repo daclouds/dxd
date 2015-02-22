@@ -1,5 +1,9 @@
 # dxd
 
+### Feb. 22
+
+- [움짤로 이해하는 반응형 웹디자인의 9가지 요소](http://slowalk.tistory.com/2048)
+
 ### Feb. 14
 
 - [Single Page Site with Smooth Scrolling, Highlighted Link, and Fixed Navigation](http://callmenick.com/2013/04/22/single-page-site-with-smooth-scrolling-highlighted-link-and-fixed-navigation/) [[demo]](http://callmenick.com/lab-demos/7-single-page-smooth-scroll/)
