@@ -1,5 +1,11 @@
 # dxd
 
+### Feb. 25
+
+- [한글 웹 폰트 경량화해 사용하기](http://blog.coderifleman.com/post/111825720099)
+- [Pinterest style columns layout](http://cssdeck.com/labs/css-only-pinterest-style-columns-layout)
+- [CSS 문법 오류 검사기](http://csslint.net/)
+
 ### Feb. 22
 
 - [움짤로 이해하는 반응형 웹디자인의 9가지 요소](http://slowalk.tistory.com/2048)
