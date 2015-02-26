@@ -1,14 +1,17 @@
 # dxd
 
+### Feb. 26
+
+- [Google Fonts](https://developers.google.com/fonts/docs/getting_started)
+- [한글 웹 폰트 경량화해 사용하기](http://blog.coderifleman.com/post/111825720099)
+- [Google Analytics](http://www.google.com/analytics/)
+- [움짤로 이해하는 반응형 웹디자인의 9가지 요소](http://slowalk.tistory.com/2048)
+- [Animate.css](http://daneden.github.io/animate.css/)
+
 ### Feb. 25
 
-- [한글 웹 폰트 경량화해 사용하기](http://blog.coderifleman.com/post/111825720099)
 - [Pinterest style columns layout](http://cssdeck.com/labs/css-only-pinterest-style-columns-layout)
 - [CSS 문법 오류 검사기](http://csslint.net/)
-
-### Feb. 22
-
-- [움짤로 이해하는 반응형 웹디자인의 9가지 요소](http://slowalk.tistory.com/2048)
 
 ### Feb. 14
 
@@ -123,7 +126,6 @@ Examples
 
 ##### font
 
-- [Google Fonts](https://developers.google.com/fonts/docs/getting_started)
 - [letter-spacing](https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing)
 - [word-spacing](https://developer.mozilla.org/en-US/docs/Web/CSS/word-spacing)
 - [line-height](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
@@ -135,7 +137,6 @@ Examples
 - [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/performance-organization/)
 - [Hover.css](https://github.com/IanLunn/Hover)
 - [HTML Color Picker](http://www.w3schools.com/tags/ref_colorpicker.asp)
-- [Animate.css](http://daneden.github.io/animate.css/)
 - [Publishing to Azure Websites with Git](http://azure.microsoft.com/en-us/documentation/articles/web-sites-publish-source-control/)
 - [User interface의 애니메이션 & 트랜지션](http://story.pxd.co.kr/865)
 - [The Gooey Effect](http://css-tricks.com/gooey-effect/)
