@@ -2,11 +2,17 @@
 
 ### Feb. 26
 
+- [Simple HTTP request handler](https://docs.python.org/2/library/simplehttpserver.html)
 - [Google Fonts](https://developers.google.com/fonts/docs/getting_started)
-- [한글 웹 폰트 경량화해 사용하기](http://blog.coderifleman.com/post/111825720099)
+    - [한글 웹 폰트 경량화해 사용하기](http://blog.coderifleman.com/post/111825720099)
+- [Chrome DevTools Overview # Audits](https://developer.chrome.com/devtools#audits)
+    - [grunt-usemin을 사용한 JavaScript/CSS 파일 팩키징](http://blog.outsider.ne.kr/952) 
+        - [WHY AMD?](http://requirejs.org/docs/whyamd.html)
+        - [zont/gulp-usemin](https://github.com/zont/gulp-usemin)
 - [Google Analytics](http://www.google.com/analytics/)
 - [움짤로 이해하는 반응형 웹디자인의 9가지 요소](http://slowalk.tistory.com/2048)
-- [Animate.css](http://daneden.github.io/animate.css/)
+    - [Animate.css](http://daneden.github.io/animate.css/)
+- [Process CSS with ease  e.g. Vendor prefix](http://pleeease.io/play/)
 
 ### Feb. 25
 
