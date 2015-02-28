@@ -1,5 +1,9 @@
 # dxd
 
+### March. 3
+
+- [http://stackoverflow.com/questions/16629561/css-vertical-align-middle-not-working](http://stackoverflow.com/questions/16629561/css-vertical-align-middle-not-working)
+
 ### Feb. 26
 
 - [Simple HTTP request handler](https://docs.python.org/2/library/simplehttpserver.html)
