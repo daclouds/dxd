@@ -3,15 +3,11 @@
 ### March. 1
 
 - [http://stackoverflow.com/questions/16629561/css-vertical-align-middle-not-working](http://stackoverflow.com/questions/16629561/css-vertical-align-middle-not-working)
-- 
 - [Vertically Align text in a Div](http://stackoverflow.com/questions/2939914/vertically-align-text-in-a-div)
 - [HTML divs, how to wrap content?](http://stackoverflow.com/questions/14962459/html-divs-how-to-wrap-content)
-- 
 - [Text Blocks Over Image](https://css-tricks.com/text-blocks-over-image/)
 - [Design Considerations: Text on Images](https://css-tricks.com/design-considerations-text-images/)
- 
 - [How to find the next element which has an ID attribute using jQuery](http://stackoverflow.com/questions/19569144/how-to-find-the-next-element-which-has-an-id-attribute-using-jquery)
-- 
 
 ### Feb. 26
 
