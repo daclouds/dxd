@@ -1,5 +1,9 @@
 # dxd
 
+### March. 3
+
+- [treehouse blog](http://blog.teamtreehouse.com/)
+
 ### March. 1
 
 - [http://stackoverflow.com/questions/16629561/css-vertical-align-middle-not-working](http://stackoverflow.com/questions/16629561/css-vertical-align-middle-not-working)
